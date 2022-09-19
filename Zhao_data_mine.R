@@ -1,5 +1,5 @@
 # Data downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169332
-# from this paper tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170046/
+# from this paper https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170046/
 
 # Install packages
 library(dplyr)
